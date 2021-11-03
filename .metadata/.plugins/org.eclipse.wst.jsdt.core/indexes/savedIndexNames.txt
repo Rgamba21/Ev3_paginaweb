@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Aaron\eclipse-Iplacex\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+105107224.index
+2563376565.index
+957107838.index
+617756192.index
+1215249102.index

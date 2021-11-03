@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:calcularEdad,org.eclipse.launchbar.core.descriptorType.default\:usuarios,org.eclipse.launchbar.core.descriptorType.default\:login,org.eclipse.launchbar.core.descriptorType.default\:sesion,org.eclipse.launchbar.core.descriptorType.default\:registro,org.eclipse.launchbar.core.descriptorType.default\:Tomcat v9.0 Server at localhost
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:calcularEdad/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:calcularEdad/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
